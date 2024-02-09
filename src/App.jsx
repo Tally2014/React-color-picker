@@ -1,10 +1,11 @@
-import './App.css'
+import './App.css';
+import ColorPicker from './ColorPicker';
 
 function App() {
 
   return (
     <>
-      <h1>Color Picker App</h1>
+      <ColorPicker/>
     </>
   )
 }
